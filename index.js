@@ -1,8 +1,7 @@
 // Code your solutions in this file
-
-
 const names = ["Guadalupe", "Ollie", "Aki"];
 const message = ["surprise"];
+//describe function 'writeCards'which returns an array of thank you messages for each name provided to the function
 function writeCards(names, message){
     let thankyouMessages = [];
     
